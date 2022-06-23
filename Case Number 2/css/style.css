@@ -1,0 +1,22 @@
+table.table{
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif
+}
+
+body
+{
+    vertical-align: middle;
+    text-align: center;
+}
+
+table th, td{
+    text-align: center;
+}
+
+table th{
+    background-color:#F5F5F6;
+}
+
+form input{
+    vertical-align: middle;
+    text-align: center;
+}
